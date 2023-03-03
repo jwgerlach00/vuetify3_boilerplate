@@ -6,6 +6,6 @@ do
 done
 
 git remote set-url origin https://github.com/jwgerlach00/$name
-git remote add upstream https://github.com/jwgerlach00/vue3_boilerplate
+git remote add upstream https://github.com/jwgerlach00/vuetify3_boilerplate
 git push origin master
 git push --all
