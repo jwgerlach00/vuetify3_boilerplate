@@ -1,0 +1,67 @@
+body {
+  margin: 0px;
+}
+
+.router-view {
+  background-color: #282a36 !important;
+}
+
+.v-card {
+  background-color: #44475a !important;
+}
+
+h1 {
+  font-family: "Montserrat", sans-serif !important;
+  color: #f8f8f2;
+  font-size: 70pt;
+  text-align: center;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif !important;
+  color: #f8f8f2;
+  font-size: 30pt;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif !important;
+  color: #f8f8f2;
+  font-size: 20pt;
+}
+
+p {
+  font-family: "Montserrat", sans-serif !important;
+  color: #f8f8f2;
+  font-size: 1.2rem;
+  text-align: left;
+  white-space: pre-line;
+}
+
+.warning-fade-enter-active,
+.warning-fade-leave-active {
+  transition: opacity 0.5s ease;
+}
+
+.warning-fade-enter-from,
+.warning-fade-leave-to {
+  opacity: 0;
+}
+
+.v-expansion-panel.model-config {
+  color: black !important;
+  background-color: #f8f8f2 !important;
+}
+.v-expansion-panel.global-config {
+  color: black !important;
+  background-color: #f8f8f2 !important;
+}
+
+.v-expansion-panel-text {
+  background-color: #282a36;
+}
+
+div.v-btn-toggle.nav-bar {
+  width: 100%;
+  color: #f8f8f2;
+  background-color: #44475a;
+}
